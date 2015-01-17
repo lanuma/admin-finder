@@ -102,4 +102,4 @@ else:
 	except (KeyboardInterrupt, SystemExit):
 		print "\n\t[!] Session cancelled"
 	except:
-		print "\n\t[!] Unknown Error... Exit!"
+		print "\n\t[!] Unknown Error... Exit! "
