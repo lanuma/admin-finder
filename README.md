@@ -12,4 +12,4 @@ A tool to find administrator page
 Type "python adminFinder-v2.py -h" for help
 
 
-contact me for any update, bug, and error
+contact me for any question, update, bug, and error.
