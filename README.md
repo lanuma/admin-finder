@@ -9,7 +9,7 @@ A tool to find administrator page
                 #                                                 #
                 #          Thanks to Malang Cyber Crew            #
                 ###################################################
-Type "python adminFinder-v2.py -h" for help
+Type "python adminFinder.py -h" for help
 
 
 contact me for any question, update, bug, and error.
